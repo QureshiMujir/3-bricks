@@ -104,13 +104,3 @@ export const contractAddress = "0xaaaaaaaaaaaa";
 -   **Frontend**
     -   [React](https://reactjs.org/)
 
-## ✍️ Authors <a name = "authors"></a>
-
--   [@Hussain](https://github.com/pettiboy)
--   [@Arya Nair](https://github.com/Arya-A-Nair)
--   [@Vatsal](https://github.com/bevatsal1122)
--   [@VinayKanse](https://github.com/VinayKanase)
-
-## 🎉 Acknowledgments <a name = "acknowledgments"></a>
-
--   Hat tip to anyone whose code was used
