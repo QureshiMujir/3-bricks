@@ -1,0 +1,14 @@
+[debug] [2023-01-28T16:18:33.104Z] ----------------------------------------------------------------------
+[debug] [2023-01-28T16:18:33.105Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy --only hosting:three-bricks-app
+[debug] [2023-01-28T16:18:33.105Z] CLI Version:   11.21.0
+[debug] [2023-01-28T16:18:33.105Z] Platform:      linux
+[debug] [2023-01-28T16:18:33.106Z] Node Version:  v18.0.0
+[debug] [2023-01-28T16:18:33.106Z] Time:          Sat Jan 28 2023 21:48:33 GMT+0530 (India Standard Time)
+[debug] [2023-01-28T16:18:33.106Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-01-28T16:18:38.147Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.

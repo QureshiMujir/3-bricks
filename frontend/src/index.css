@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+body {
+    margin: 0;
+    font-family: "Poppins" !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background: conic-gradient(
+        from 136.11deg at 39.58% 43.78%,
+        #f5f6ff -56.04deg,
+        #f8f9ff 8.89deg,
+        #f4f8ff 120.09deg,
+        #f5f6ff 303.96deg,
+        #f8f9ff 368.89deg
+    );
+}
+
+* {
+    box-sizing: border-box;
+}
+.awesome-bg-0 {
+    /* background: rgba(252, 254, 254, 0.43) !important;
+    background-color: rgba(252, 254, 254, 0.43) !important;
+    backdrop-filter: blur(25px) !important; */
+
+    background: conic-gradient(
+        from 136.11deg at 39.58% 43.78%,
+        #f5f6ff -56.04deg,
+        #f8f9ff 8.89deg,
+        #f4f8ff 120.09deg,
+        #f5f6ff 303.96deg,
+        #f8f9ff 368.89deg
+    ) !important;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Icons can inherit colors from parent */
+.css-cveggr-MuiListItemIcon-root {
+    color: inherit !important;
+}
+
+.MuiBox-root::-webkit-scrollbar {
+    width: 4px;
+}
+.MuiBox-root::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+.MuiBox-root::-webkit-scrollbar-thumb {
+    background: #888;
+}
+.MuiBox-root::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
